@@ -1,4 +1,4 @@
-# only-you
+# only-pkg
 
 > force constraint package manager
 
